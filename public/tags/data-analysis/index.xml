@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis | James Vine&#39;s Portfolio</title>
+    <link>http://localhost:1313/tags/data-analysis/</link>
+      <atom:link href="http://localhost:1313/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Analysis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Data Analysis</title>
+      <link>http://localhost:1313/tags/data-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Civic Sage</title>
+      <link>http://localhost:1313/project/civic-sage/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/civic-sage/</guid>
+      <description>&lt;p&gt;Fully deployed (AWS) data service utilising RAG-LLMs &amp;amp; session analysis to improve localised access to UK parliamentary politics.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
