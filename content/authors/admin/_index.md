@@ -75,16 +75,16 @@ education:
       url: 'https://github.com/vine-james/civic-sage/blob/main/files/thesis/Civic%20Sage%20Dissertation.pdf'
 
 work:
-  - position: Software Engineering in Industry Programme
-    company_name: JPMorgan Chase & Co
-    company_url: 'https://jpmorganchase.com'
-    company_logo: ''
-    date_start: 2025-02-01
-    date_end: 2025-05-01
-    summary: |
-      Responsibilities include:
-      - Led project team as part of 10-week program, winning expo against 8 other teams, receiving award from Managing Directors.
-      - Developed full-stack banking app under SCRUM / TDD & OOP practices, leveraging Python (Django), Git, Docker, Jira, etc. Engineered functionality, RESTful APIs (Swagger), CI pipelines (Jenkins) & conducted code reviews & pair programming.
+  # - position: Software Engineering in Industry Programme
+  #   company_name: JPMorgan Chase & Co
+  #   company_url: 'https://jpmorganchase.com'
+  #   company_logo: ''
+  #   date_start: 2025-02-01
+  #   date_end: 2025-05-01
+  #   summary: |
+  #     Responsibilities include:
+  #     - Led project team as part of 10-week program, winning expo against 8 other teams, receiving award from Managing Directors.
+  #     - Developed full-stack banking app under SCRUM / TDD & OOP practices, leveraging Python (Django), Git, Docker, Jira, etc. Engineered functionality, RESTful APIs (Swagger), CI pipelines (Jenkins) & conducted code reviews & pair programming.
   - position: Research Assistant (Data Science)
     company_name: Bournemouth University
     company_url: 'https://bournemouth.ac.uk'
@@ -93,7 +93,7 @@ work:
     date_end: 2025-05-01
     summary: |
       Responsibilities include:
-      - Individually designed/delivered full-stack meta-learning data application as part of [Horizon EU Program (ExtremeXP)](https://www.bournemouth.ac.uk/research/projects/extremexp), enabling interactive ranking/comparison of dataset similarity via statistical analysis.
+      - Designed & delivered full-stack meta-learning data application as part of [Horizon EU Program (ExtremeXP)](https://www.bournemouth.ac.uk/research/projects/extremexp), enabling interactive ranking/comparison of dataset similarity via statistical analysis.
       - Built recommendation system, returning best-performing models/parameters from analysis of historically similar datasets.
       - Presented outputs within research group (professors, postdocs, PhD students). Invited to present remotely to ExtremeXP conference in Oslo.
   - position: Data Engineer (Secondment)
